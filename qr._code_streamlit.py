@@ -50,4 +50,6 @@ if st.button("Generate QR Code"):
         st.warning("Please enter text or URL to generate a QR code.")
 
 # Footer
-st.markdown("Created by [Tassawar Abbase] | Email: abbas829@gmail.com | GitHub: [abbas829](https://github.com/abbas829)")
+st.markdown("Created by Tassawar Abbas /
+| Email: abbas829@gmail.com /
+| GitHub: [abbas829](https://github.com/abbas829)")
